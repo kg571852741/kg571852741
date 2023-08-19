@@ -9,7 +9,7 @@
 <!-- - 😄 Pronouns: He/His -->
 - 🔭 I’m currently building [semantic segmnetation model](https://paperswithcode.com/task/3d-semantic-segmentation).
 - 🌱 I’m currently learning more about [Latent Diffusion](https://paperswithcode.com/method/latent-diffusion-model).
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/daniel531).
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/@danielcheung7885/about).
 - 🤔 I’m looking for help with Copmuter Vision and Point Cloud Processing Libaries documentation.
 - 💬 Ask me about Point Cloud Processing, Scan-to-BIM or any vision tech.
 - 📫 How to reach me: Check social links below.
