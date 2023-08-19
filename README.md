@@ -8,7 +8,7 @@
 # 💫 About Me :
 <!-- - 😄 Pronouns: He/His -->
 - 🔭 I’m currently building [semantic segmnetation model](https://paperswithcode.com/task/3d-semantic-segmentation).
-- 🌱 I’m currently learning more about BlockChain.
+- 🌱 I’m currently learning more about Latent Diffusion.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/daniel531).
 - 🤔 I’m looking for help with Open3D-ML and UWG documentation.
 - 💬 Ask me about Point Cloud, Ldiar-scan data processing or any vision tech.
