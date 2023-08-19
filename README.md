@@ -8,12 +8,11 @@
 # 💫 About Me :
 <!-- - 😄 Pronouns: He/His -->
 - 🔭 I’m currently building [semantic segmnetation model](https://paperswithcode.com/task/3d-semantic-segmentation).
-- 🌱 I’m currently learning more about Latent Diffusion.
+- 🌱 I’m currently learning more about [Latent Diffusion](https://paperswithcode.com/method/latent-diffusion-model).
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/daniel531).
-- 🤔 I’m looking for help with Open3D-ML and UWG documentation.
-- 💬 Ask me about Point Cloud, Ldiar-scan data processing or any vision tech.
+- 🤔 I’m looking for help with Copmuter Vision and Point Cloud Processing Libaries documentation.
+- 💬 Ask me about Point Cloud Processing, Scan-to-BIM or any vision tech.
 - 📫 How to reach me: Check social links below.
-<!-- - ⚡ Fun fact: I spend almost 12 hours listening to songs every day. -->
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielcheung531) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dc91356322) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kalung531) [![Twitter](https://img.shields.io/twitter/follow/daniel571852741?logo=Twitter&style=for-the-badge)](https://twitter.com/daniel571852741)
