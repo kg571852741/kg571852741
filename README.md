@@ -4,10 +4,10 @@
 </p>
 
 <!-- ## GitHub Stats -->
-<p align="center">
+<!-- <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kg571852741&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kg571852741&theme=vue" />
-</p>
+</p> -->
 
 <!-- ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
